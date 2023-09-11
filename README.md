@@ -1,4 +1,4 @@
-# Predicting_promotions
+# Optimizing Employee Promotion Predictions: A Comparative Analysis of HR Classification Models with Synthetic Dat
 Testing different classification methods to predicts promotions using a HR features
 Binary classification model comparison using synthetic data: Various classification models were tested against each other to predict promotions within a company. This project is divided into two notebooks: The first notebook focuses on the primary Exploratory Data Analysis (EDA) and the results obtained on the test set. The second notebook contains attempts to enhance classification scores through preprocessing techniques using validation data. The results effectively demonstrate the well-known trade-offs inherent in classification methods and preprocessing techniques when dealing with class imbalances. Metrics such as recall and accuracy, or the prioritization of false positives over false negatives and vice versa, need to be selected as target metrics for deploying the model.
 
